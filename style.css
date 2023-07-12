@@ -1,0 +1,32 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+
+#image {
+padding-left: 30%;
+padding-right: 30%;
+}
+
+#back {
+    padding-left: 15px;
+    padding-right: 15px;
+        background-color: gold;
+}
+
+#next {
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 20px;
+        background-color: gold;
+}
+
+.bothButtons {
+    margin-left: 42%;
+    padding: 10px;
+}
+
+.commentBox {
+    outline-style: groove;
+    padding: 10px;
+}
